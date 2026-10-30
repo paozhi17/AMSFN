@@ -1,0 +1,21 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Local datasets and training outputs
+datasets/
+runs/
+runs_driver/
+runs_coco/
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+._*
